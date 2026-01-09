@@ -4,8 +4,8 @@ This task list is designed for Antigravity to generate a complete "Adaptive Less
 
 ## 1. Documentation & Intent Analysis
 - [ ] Read and analyze the following files to understand the pedagogical context:
-    - [教育-認知オンロードと授業デザイン](file:///Users/hamadakazuyuki/Documents/はまだ/04_Memory/教育/教育-認知オンロードと授業デザイン.md)
-    - [現代文評論文読解](file:///Users/hamadakazuyuki/Documents/はまだ/05_Output/Areas/国語授業/現代文/現代文評論文読解.md)
+    - [[教育-認知オンロードと授業デザイン]]
+    - [[現代文評論文読解]]
 - [ ] Identify the specific "Gap/Dissonance" (齟齬) to be highlighted for this lesson.
 
 ## 2. Content Generation (Sourcing/Gemini)
